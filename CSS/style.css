@@ -165,7 +165,7 @@ footer{
 }
 
 /* Media Queries */
-@media (max-width: 720px) {
+@media (max-width: 800px) {
 	.main-nav ul{
 		grid-template-columns: repeat(2, 1fr);
 	}
