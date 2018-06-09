@@ -68,6 +68,25 @@ img{
 	color: var(--light);
 }
 
+.home{
+	-ms-grid-row: 1;
+	-ms-grid-column: 1;
+}
+
+.about{
+	-ms-grid-row: 1;
+	-ms-grid-column: 3;
+}
+
+.services{
+	-ms-grid-row: 1;
+	-ms-grid-column: 5;
+}
+
+.contact{
+	-ms-grid-row: 1;
+	-ms-grid-column: 7;
+}
 /* Top Container */
 .top-container{
 	display: -ms-grid;
