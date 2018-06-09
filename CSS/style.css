@@ -43,7 +43,7 @@ img{
 .main-nav ul{
 	display: -ms-grid;
 	display: grid;
-	-ms-grid-columns: (1fr)[4];
+	-ms-grid-columns: 1fr 20px 1fr 20px 1fr 20px 1fr;
 	    grid-template-columns: repeat(4, 1fr);
 	grid-gap: 20px;
 	list-style: none;
